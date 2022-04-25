@@ -1,0 +1,18 @@
+Proje Özeti :
+
+  Proje özetine geçmeden önce : 
+  
+  - projede login işlemeri için auth token işlemleri yapılmamıştır.
+  - validasyon işlemleri, bildirim işlemşeri yapılmamıştır.
+
+- Projede iki ekran çalışması üzerinde duruldu. Birinci adminin login işlemi sonucu açılan ekran, ikincisi öğrenci ekranı.
+- Projede admin ekranı için 'admin@admin.com' email tanımı ve 'admin123' password tanımlaması yapılmıştır. Bu bilgiler eşliğinde admin ekranına giriş yapılabilir.
+- Register işleminde sadece öğrenci kaydı oluşturuluyor. Ve oluşturulan öğrenci email ve password bilgileri ile sisteme giriş yapabiliyorlar.
+- admin ekrandan kütüphanedeki kitapları listeliyor, listeli kitaplar arasında search işlemi yapabiliyor, ödünç verilmiş kitapların listesini görebiliyor, dropdown menuden kitap kaydı oluşturabiliyor, kitap ödünç verip geri alabiliyor, İlgili kitaplar üzerinden güncelleme ve silme işlemlerinide yapabiliyor.
+- admin kitap ödünç verme işleminde öğrenci numrası özelinde bu işlemi gerçekleştiyor. ve ödünç verilen kitap öğrencinin ödünç aldığı kitaplara kaydediliyor.
+- benzer şekilde kitap teslim işleminde de admin öğrenci numrasına göre işlem yapıyor.
+- kitap ödünç verme ve iade işlemlerinde de admin sayfasındaki ödünç verilmiş kitaplar listeside güncelleniyor
+- öğrenci email ve password bilgileri ile sisteme giriş yaptığında profil ekranında kendi bilgileri ve ödünç aldığı kitaların listesini görebiliyor.
+- öğrenci kendi bilgilerini(isim, soyisim) güncelliyebiliyor.
+
+
